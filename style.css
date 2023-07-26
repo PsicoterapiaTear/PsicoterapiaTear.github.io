@@ -69,7 +69,7 @@ div.container {
 }
 div.card {
  height: 410px;
- width: 220px;
+ max-width: 280px;
  border-radius: 20px;
  box-shadow: 2px 2px  5px #0f42467f;
  background-color:#4997a88c;
